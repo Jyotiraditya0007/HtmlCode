@@ -1,0 +1,15 @@
+
+.okk{
+    color: green;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+.box{
+    height: 300px;
+    width: 300px;
+    border: 1px solid black;
+}
+.box2{
+    border-radius: 50%;
+}
